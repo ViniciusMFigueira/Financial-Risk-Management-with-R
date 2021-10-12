@@ -1,4 +1,6 @@
 ##Retrieve Gold Prices from FRED
+
+# Use the "quantmod" package to get the data
 library(quantmod)
 
 # Retrieve the following data from FRED: naming object as "gold price"
